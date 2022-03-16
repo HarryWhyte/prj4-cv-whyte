@@ -1,6 +1,6 @@
 # prj4-cv-whyte
 
-My CV website!
+My CV website: https://harrywhyte.github.io/prj4-cv-whyte/
 
 ## Image credits
 
